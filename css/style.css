@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+:root {
+  --very-dark: #000000;
+  --grayish-blue: #4D5562;
+  --light-gray: #D9D9D9;
+  --light-bluish-gray: #F8FAFC;
+}
+
+
+body {
+  font-family: "Poppins", Sans-Serif;
+  min-height: 100vh;
+  display: flex;
+}
