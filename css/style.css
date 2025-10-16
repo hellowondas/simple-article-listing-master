@@ -19,5 +19,26 @@
 body {
   font-family: "Poppins", Sans-Serif;
   min-height: 100vh;
+  background: var(--light-bluish-gray);
   display: flex;
+  flex-direction: column;
+}
+
+
+header {
+  text-align: center;
+  font-size: 1.125em;
+  font-weight: 600;
+  margin: 1.25em;
+}
+
+
+.seperator {
+  margin-top: 2.5em;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
 }
