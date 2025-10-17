@@ -41,4 +41,27 @@ header {
 .container {
   display: flex;
   flex-direction: column;
+  margin: 0 1.25em;
+}
+
+
+.image_1,
+.image_2,
+.image_3 {
+  border-radius: 0.625em;
+}
+
+
+.container h2,
+.container h3,
+.container h4 {
+  font-size: 1.2em;
+  margin: 1.20em 0;
+}
+
+
+.date {
+  font-size: 0.875em;
+  display: block;
+  margin-bottom: 3.31em;
 }
