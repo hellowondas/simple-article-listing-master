@@ -65,6 +65,12 @@ header {
 
 /*-----------Tablet Styles-----------*/
 @media (min-width: 40em) {
+body {
+  justify-content: center;
+  align-items: center;
+}
+
+
 header {
   font-size: 1.60em;
 } 
