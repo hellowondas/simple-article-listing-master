@@ -24,5 +24,4 @@
 
 ## Author
 
-- Website [Demo](https://{hellowondas.github.io/simple-article-listing-master/})
-- GitHub [@hellowondas](https://{github.com/hellowondas})
+- GitHub [@hellowondas](https://github.com/hellowondas)
