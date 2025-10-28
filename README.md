@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://hellowondas.github.io/simple-article-listing-master/}">
+    <a href="https://hellowondas.github.io/simple-article-listing-master/">
       Demo
     </a>
     <span> | </span>
@@ -24,5 +24,5 @@
 
 ## Author
 
-- Website [your-website.com](https://{hellowondas.github.io/simple-article-listing-master/})
-- GitHub [@your-username](https://{github.com/hellowondas})
+- Website [Demo](https://{hellowondas.github.io/simple-article-listing-master/})
+- GitHub [@hellowondas](https://{github.com/hellowondas})
